@@ -10,3 +10,5 @@ Also:
 * enter and exit private chat
 * send end receive all messages from private chat
 * get a list of all chats
+
+#### Postman is used for testing
